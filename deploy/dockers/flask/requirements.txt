@@ -1,0 +1,15 @@
+flask
+flask-login
+flask-openid
+flask-mail
+sqlalchemy
+flask-sqlalchemy
+sqlalchemy-migrate
+flask-wtf
+flask-pagedown
+pytz
+flask-babel
+flup
+
+tornado
+
